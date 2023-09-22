@@ -133,7 +133,8 @@ function App() {
         info = {
           hero.info
         } >
-        < /Hero>
+        <
+        /Hero>
       )
     } <
     /div>
